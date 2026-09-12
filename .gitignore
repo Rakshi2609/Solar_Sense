@@ -1,0 +1,16 @@
+# Credentials -- never commit
+SolarSense/secrets.h
+
+# Host test-harness build output
+test/*.exe
+test/*.o
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.map
