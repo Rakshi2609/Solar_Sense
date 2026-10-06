@@ -1,3 +1,6 @@
+# Dependencies
+node_modules/
+
 # Credentials -- never commit
 SolarSense/secrets.h
 
@@ -7,10 +10,11 @@ test/*.o
 
 # PlatformIO
 .pio/
-.vscode/
 
 # Arduino build output
 build/
 *.bin
 *.elf
 *.map
+
+config.bat
