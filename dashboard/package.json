@@ -4,7 +4,7 @@
   "description": "SolarSense Precision AI Light-Theme Field Node Dashboard",
   "main": "server.js",
   "scripts": {
-    "start": "node init && node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
